@@ -12,6 +12,7 @@ import toggleMixin from "@/mixins/toggleMixin";
 export default {
   name: "my-dialog",
   mixins: [toggleMixin]
+
 }
 </script>
 
